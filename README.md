@@ -69,7 +69,7 @@ Follow the instructions in `Continuous_Control.ipynb` to get started with traini
 * To run `Navigation.ipynb`, `Python 3.6`, `PyTorch 0.4.0` and `mlagent` is required.   `mlagent` and some other dependencies are contained in `python` folder. To install `mlagent` without other dependency,  just use `pip install agent`. `PyTorch` is just used to build network in model.py, other versions or other frameworks may also work. 
 * Check the filename of environment when create `env`.
 * Weight of trained agent is saved in `checkpoint_actor.pth` and `checkpoint_critic.pth`.
-* The algorithm and result are illustrated in `README.md`.
+* The algorithm and result are illustrated in [Report.md](Report.md).
 
 
 
