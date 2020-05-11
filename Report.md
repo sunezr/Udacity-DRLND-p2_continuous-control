@@ -4,7 +4,7 @@ The environment of this project is the second version described in [README](READ
 
 ## Learning Algorithm
 
-### DQN Algorithm
+### DDPG Algorithm
 
 The agent in this environment is trained with [DDPG](https://arxiv.org/pdf/1509.02971.pdf)(Deep Deterministic Policy Gradient) algorithm which concurrently learns a Q-function and a policy. It is applied to solve environment with continuous actions. There are two kinds of networks, actor and critic. The actor network output actions with given states. The critic network implement Q-learning. 
 
