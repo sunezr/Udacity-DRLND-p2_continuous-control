@@ -42,7 +42,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 2. Place the file in `Udacity_DRLND_p2/` folder, and unzip (or decompress) the file. 
 
-### Denpencies
+### Dependencies
 
 To set up your python environment to run the code in this repository, follow the instructions below.
 
