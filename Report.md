@@ -36,7 +36,7 @@ Both `Actor` and `Critic` contain  3 hidden layers with 2 ReLU activation functi
 
 ## Plot of Rewards
 
-The result is shown in the figure. The environment is solved in 100 epochs, average score of 100 episodes(1 to 100) is 30.59. In fact the scores are around 40 after 40 episodes.
+The result is shown in the figure. The environment is solved in 100 epochs, average score of 100 episodes(1 to 100) is 30.22(larger than 30). In fact the scores are around 40 after 40 episodes.
 
 ![continuous_control](continuous_control.png)
 
